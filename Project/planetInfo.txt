@@ -1,0 +1,5 @@
+Sun,1.98e30,0,#ffa200,1.5e10,
+Mercury,0.33e24,57.9e9,green,0.4e10,
+Venus,4.87e24,108.2e9,purple,0.8e10,
+Earth,5.97e24,149.6e9,blue,1e10,
+Mars,0.642e24,228e9,red,0.6e10,
